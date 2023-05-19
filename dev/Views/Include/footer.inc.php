@@ -1,4 +1,5 @@
-<script src="../dev/assets/js/flowbite.js"></script>
+<script src="../Assets/Js/flowbite.js"></script>
+
 </body>
 </html>
 

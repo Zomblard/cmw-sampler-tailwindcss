@@ -6,7 +6,7 @@
     <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="../Assets/Css/style.css">
     <script src="https://kit.fontawesome.com/eced519d56.js" crossorigin="anonymous"></script>
 
     <!--A UTILISER UNIQUEMENT SI ON VEUT LE SWITCH LIGHT / DARK
@@ -22,14 +22,14 @@
 
 <!--Attention ces font doivent être également defnie sur tailwind.config.js pour la compilation du css-->
 <style>
-    @font-face {  font-family: unbounded;  src:url("../dev/assets/webfonts/Unbounded-Regular.ttf");  }
-    @font-face {  font-family: montserrat;  src:url("../dev/assets/webfonts/Montserrat-Regular.ttf");  }
-    @font-face {  font-family: paytone;  src:url("../dev/assets/webfonts/PaytoneOne-Regular.ttf");  }
-    @font-face {  font-family: sora;  src:url("../dev/assets/webfonts/Sora-Regular.ttf");  }
-    @font-face {  font-family: outfit;  src:url("../dev/assets/webfonts/Outfit-Regular.ttf");  }
-    @font-face {  font-family: alata;  src:url("../dev/assets/webfonts/Alata-Regular.ttf");  }
-    @font-face {  font-family: titan;  src:url("../dev/assets/webfonts/TitanOne-Regular.ttf");  }
-    @font-face {  font-family: pressstart;  src:url("../dev/assets/webfonts/PressStart2P-Regular.ttf");  }
+    @font-face {  font-family: unbounded;  src:url("../Assets/Webfonts/Unbounded-Regular.ttf");  }
+    @font-face {  font-family: montserrat;  src:url("../Assets/Webfonts/Montserrat-Regular.ttf");  }
+    @font-face {  font-family: paytone;  src:url("../Assets/Webfonts/PaytoneOne-Regular.ttf");  }
+    @font-face {  font-family: sora;  src:url("../Assets/Webfonts/Sora-Regular.ttf");  }
+    @font-face {  font-family: outfit;  src:url("../Assets/Webfonts/Outfit-Regular.ttf");  }
+    @font-face {  font-family: alata;  src:url("../Assets/Webfonts/Alata-Regular.ttf");  }
+    @font-face {  font-family: titan;  src:url("../Assets/Webfonts/TitanOne-Regular.ttf");  }
+    @font-face {  font-family: pressstart;  src:url("../Assets/Webfonts/PressStart2P-Regular.ttf");  }
 </style>
 
 <!--bg-white text-gray-600 dark:text-gray-400 dark:bg-gray-700 est une option pour le dark / Light-->

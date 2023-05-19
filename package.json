@@ -4,7 +4,7 @@
   "description": "Site craftmywebsite 2.0",
   "main": "index.js",
   "scripts": {
-    "build": "postcss -w src/tailwind.css -o dev/Assets/css/style.css"
+    "build": "postcss -w src/tailwind.css -o dev/Assets/Css/style.css"
   },
   "repository": {
     "type": "git",
