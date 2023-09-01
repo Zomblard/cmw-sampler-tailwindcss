@@ -34,4 +34,4 @@
 
 <!--bg-white text-gray-600 dark:text-gray-400 dark:bg-gray-700 est une option pour le dark / Light-->
 <!--font-montserrat == montserrat peut être une valeur php dynamique comme option utilisateur-->
-<body class="bg-white text-gray-600 dark:text-gray-400 dark:bg-gray-700 font-montserrat">
+<body class="bg-white text-gray-600 dark:text-gray-400 dark:bg-gray-700 font-montserrat flex flex-col min-h-screen">

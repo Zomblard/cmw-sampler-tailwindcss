@@ -1,6 +1,10 @@
 <script src="../Assets/Js/flowbite.js"></script>
 
 </body>
+
+<footer  class="mt-auto">
+    Le footer !
+</footer>
 </html>
 
 
