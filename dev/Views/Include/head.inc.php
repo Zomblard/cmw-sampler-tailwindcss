@@ -22,6 +22,20 @@
 
 <!--Attention ces font doivent être également defnie sur tailwind.config.js pour la compilation du css-->
 <style>
+    @font-face {  font-family: angkor;  src:url("../Assets/Webfonts/Angkor-Regular.ttf");  }
+    @font-face {  font-family: ibmplexsans;  src:url("../Assets/Webfonts/IBMPlexSans-Regular.ttf");  }
+    @font-face {  font-family: kanit;  src:url("../Assets/Webfonts/Kanit-Regular.ttf");  }
+    @font-face {  font-family: lora;  src:url("../Assets/Webfonts/Lora-Regular.ttf");  }
+    @font-face {  font-family: madimione;  src:url("../Assets/Webfonts/MadimiOne-Regular.ttf");  }
+    @font-face {  font-family: ojuju;  src:url("../Assets/Webfonts/Ojuju-Regular.ttf");  }
+    @font-face {  font-family: opensans;  src:url("../Assets/Webfonts/OpenSans-Regular.ttf");  }
+    @font-face {  font-family: playfairdisplay;  src:url("../Assets/Webfonts/PlayfairDisplay-Regular.ttf");  }
+    @font-face {  font-family: robotocondensed;  src:url("../Assets/Webfonts/RobotoCondensed-Regular.ttf");  }
+    @font-face {  font-family: robotomono;  src:url("../Assets/Webfonts/RobotoMono-Regular.ttf");  }
+    @font-face {  font-family: robotoslab;  src:url("../Assets/Webfonts/RobotoSlab-Regular.ttf");  }
+    @font-face {  font-family: rubik;  src:url("../Assets/Webfonts/Rubik-Regular.ttf");  }
+    @font-face {  font-family: ubuntu;  src:url("../Assets/Webfonts/Ubuntu-Regular.ttf");  }
+    @font-face {  font-family: roboto;  src:url("../Assets/Webfonts/Roboto-Regular.ttf");  }
     @font-face {  font-family: unbounded;  src:url("../Assets/Webfonts/Unbounded-Regular.ttf");  }
     @font-face {  font-family: montserrat;  src:url("../Assets/Webfonts/Montserrat-Regular.ttf");  }
     @font-face {  font-family: paytone;  src:url("../Assets/Webfonts/PaytoneOne-Regular.ttf");  }
